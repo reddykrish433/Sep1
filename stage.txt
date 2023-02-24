@@ -3,5 +3,8 @@
 first commit id
 
 feature code1
+<<<<<<< Updated upstream
 
 final code
+=======
+>>>>>>> Stashed changes
